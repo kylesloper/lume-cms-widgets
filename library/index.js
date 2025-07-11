@@ -1,5 +1,5 @@
-import { Component } from "https://cdn.jsdelivr.net/gh/kylesloper/lume-cms@8660f6622a67a34000b696cbee165e9772603da8/static/components/component.js"
-import { push } from "https://cdn.jsdelivr.net/gh/kylesloper/lume-cms@8660f6622a67a34000b696cbee165e9772603da8/static/components/utils.js"
+import { Component } from "https://cdn.jsdelivr.net/gh/kylesloper/lume-cms@latest/static/components/component.js"
+import { push } from "https://cdn.jsdelivr.net/gh/kylesloper/lume-cms@latest/static/components/utils.js"
 
 customElements.define(
     "library-field",
